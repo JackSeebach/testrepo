@@ -1,0 +1,43 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+header img{
+	float: left;
+}
+header h2{
+	color: #FF9933;
+	font-size: 40px;
+	font-style: italic;
+	text-shadow: 2px 1px black;
+	text-indent: 40px;
+}
+header h3{
+	text-indent: 125px;
+	font-size: 20px;
+}
+.firstletter{
+	font-size: 50px;
+}
+main h1{
+	font-size: 22px;
+}
+ul li{
+	padding: 5px;
+	font-weight: bold; 
+}
+a:link{
+	color: #FF9933;
+}
+a:visited{
+	color: #FF9933;
+}
+a:hover{
+	color: #4CAF50;
+}
+a:active{
+	color: #4CAF50;
+}
+footer{
+	text-align: center;
+	font-size: 11px;
+}
